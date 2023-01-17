@@ -96,11 +96,11 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Tasks
 
-* After watching the Briana Swift video's, complete the branching tutorial at: [Learn Git Branching] (https://learngitbranching.js.org/)
+* 50pts - After watching the Briana Swift video's, complete the branching tutorial at: [Learn Git Branching] (https://learngitbranching.js.org/)
    - You can reset any puzzle by typing: reset
    - Add two PNG screenshots showing your level completion to your repository. (HINT: git add and git commit )
       - The screenshot must show your browser displaying the level completion AND a text document showing your name and netID
-* Edit the C file to print "Complete".  Commit this change.
+* 50pts - Edit the C file to print "Complete".  Commit this change.
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
