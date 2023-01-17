@@ -1,8 +1,8 @@
 # :wave: The Basics of GitHub 
 
-## 🤓 Course overview and learning outcomes 
+## 🤓 Assignment and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this assignment is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our GitHub. 🚀
 
 ## :octocat: Git and GitHub
 
@@ -88,17 +88,18 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 1. [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 2. [Git and GitHub with Briana Swift](https://www.youtube.com/playlist?list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4)
- - [GitHub Workflow](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=1)
- - [Working Locally](https://www.youtube.com/watch?v=rBbbOouhI-s&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=2)
- - [Git Status](https://www.youtube.com/watch?v=SxmveNrZb5k&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=3)
- - [Saved Changes](https://www.youtube.com/watch?v=Vb0Ghkkc2hk&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=4)
- - [Git Pull and Push](https://www.youtube.com/watch?v=-uQHV9GOA0w&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=5)
+    - [GitHub Workflow](https://www.youtube.com/watch?v=47E-jcuQz5c&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=1)
+    - [Working Locally](https://www.youtube.com/watch?v=rBbbOouhI-s&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=2)
+    - [Git Status](https://www.youtube.com/watch?v=SxmveNrZb5k&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=3)
+    - [Saved Changes](https://www.youtube.com/watch?v=Vb0Ghkkc2hk&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=4)
+    - [Git Pull and Push](https://www.youtube.com/watch?v=-uQHV9GOA0w&list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4&index=5)
 
 ## 📝 Tasks
 
 * After watching the Briana Swift video's, complete the branching tutorial at: [Learn Git Branching] (https://learngitbranching.js.org/)
-- You can reset any puzzle by typing: reset
-- Submit a screenshot showing your completion of 
+   - You can reset any puzzle by typing: reset
+   - Add two PNG screenshots showing your level completion to your repository. (HINT: git add and git commit )
+      - The screenshot must show your browser displaying the level completion AND a text document showing your name and netID
 * Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
