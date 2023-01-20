@@ -98,7 +98,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 * 50pts - After watching the Briana Swift video's, complete the branching tutorial at: [Learn Git Branching] (https://learngitbranching.js.org/)
    - You can reset any puzzle by typing: reset
-   - Add two PNG screenshots showing your level completion to your repository. (HINT: git add and git commit )
+   - Add two PNG screenshots to your repository that show your level completion. (HINT: git add and git commit )
       - The screenshot must show your browser displaying the level completion AND a text document showing your name and netID
 * 10pts - Edit the C file to print your name and NetID and make sure the code compiles and runs.  Commit this change. Do not push it.
 * 10pts - After commiting the C code change, go the feedback pull request for this assignment
