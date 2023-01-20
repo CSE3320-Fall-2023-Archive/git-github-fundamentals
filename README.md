@@ -1,8 +1,8 @@
 # :wave: The Basics of GitHub 
 
-## 🤓 Assignment and learning outcomes 
+## Assignment and learning outcomes 
 
-The goal of this assignment is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our GitHub. 🚀
+The goal of this assignment is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on GitHub. 🚀
 
 ## :octocat: Git and GitHub
 
@@ -100,7 +100,11 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
    - You can reset any puzzle by typing: reset
    - Add two PNG screenshots showing your level completion to your repository. (HINT: git add and git commit )
       - The screenshot must show your browser displaying the level completion AND a text document showing your name and netID
-* 50pts - Edit the C file to print "Complete".  Commit this change.
+* 10pts - Edit the C file to print your name and NetID and make sure the code compiles and runs.  Commit this change. Do not push it.
+* 10pts - After commiting the C code change, go the feedback pull request for this assignment
+   - Click on the down arrow
+   - Select a line of code, click the + and add a question or comment
+   
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
