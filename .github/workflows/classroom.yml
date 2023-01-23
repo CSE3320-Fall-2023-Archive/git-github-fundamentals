@@ -1,0 +1,22 @@
+name: GitHub Classroom Workflow
+
+on: [push]
+
+permissions:
+  checks: write
+  actions: read
+  contents: read
+
+jobs:
+  build:
+    name: Autograding
+    runs-on: ubuntu-latest
+    container: 
+        image: ghcr.io/trevorbakker-uta/cse3320:latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Open Web Client Directory
+        run: |
+          ls
+          ps -p $$
+      - uses: education/autograding@v1
