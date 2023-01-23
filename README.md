@@ -85,10 +85,20 @@ To learn more about using GitHub’s flavor of markdown, read ["Basic Writing an
    - You can reset any puzzle by typing: reset
    - Add two PNG screenshots to your repository that show your level completion. (HINT: git add and git commit )
       - The screenshot must show your browser displaying the level completion AND a text document showing your name and netID
-* 10pts - Edit the C file to print your name and NetID and make sure the code compiles and runs.  Commit this change. Do not push it.
+* 10pts - Edit the C file to print your name and NetID .  
+        - Print "Complete." on a new line.
+        - Make sure the code compiles and runs
+        - Commit the changes. Do not push it.
+        - In your commit message describe the changes yo made.
+        - Click on the Actions tab and verify it grades as "Pass".
+        - If it does not pass fix the code to make is pass the test.
 * 10pts - After commiting the C code change, go the feedback pull request for this assignment
    - Click on the down arrow
    - Select a line of code, click the + and add a question or comment
+* 5pts - Edit the file README.md and add your name and student ID.  Commit this change to your repo
+* 10pts - 
+* 10pts - 
+* 5pts - 
    
 
 ## 📚  Resources 
