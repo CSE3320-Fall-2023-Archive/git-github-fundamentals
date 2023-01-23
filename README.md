@@ -85,21 +85,32 @@ To learn more about using GitHub’s flavor of markdown, read ["Basic Writing an
    - You can reset any puzzle by typing: reset
    - Add two PNG screenshots to your repository that show your level completion. (HINT: git add and git commit )
       - The screenshot must show your browser displaying the level completion AND a text document showing your name and netID
+      - Examples:
+      
+      <img src="images/main.png" alt="main" width="400"/>
+      <img src="images/remote.png" alt="remote" width="400"/>
 * 10pts - Edit the C file to print your name and NetID .  
         - Print "Complete." on a new line.
         - Make sure the code compiles and runs
-        - Commit the changes. Do not push it.
-        - In your commit message describe the changes yo made.
+        - Commit and push the changes. [Push it](https://en.wikipedia.org/wiki/Push_It_(Salt-n-Pepa_song)) to your fork.
+        - In your commit message describe the changes you made.
         - Click on the Actions tab and verify it grades as "Pass".
         - If it does not pass fix the code to make is pass the test.
 * 10pts - After commiting the C code change, go the feedback pull request for this assignment
    - Click on the down arrow
    - Select a line of code, click the + and add a question or comment
-* 5pts - Edit the file README.md and add your name and student ID.  Commit this change to your repo
-* 10pts - 
-* 10pts - 
-* 5pts - 
+* 5pts - Edit the file README.md and add your name and student ID.  Commit this change to your repo.
+* 10pts - From the terminal tab in the Codespace determine what version of the Linux kernel is running.
+   - Add this to a file called Codespace_info.txt
+   - Add the file and commit and push it to your repository
+* 10pts - From the terminal, determine what version of Debian is running.
+   - Add this to the Codespace_info.txt file
+   - Commit and push this change to the repository
+* 5pts - From the terminal, determine how much disk space, in Human Readable format, is available in the filesystem named "overlay".
+   - Add the amount to the Codespace_info.txt file.
+   - Commit and push this change to the repository
    
+- Add a comment in your Pull Request (PR) stating you have completed the assignment.
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
