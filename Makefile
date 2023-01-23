@@ -5,4 +5,4 @@ clean:
 	rm ./hello
 
 test: hello
-	 ./run.sh
+	 ./run.sh tests/script
