@@ -90,7 +90,7 @@ To learn more about using GitHub’s flavor of markdown, read ["Basic Writing an
       <img src="images/main.png" alt="main" width="400"/>
       <img src="images/remote.png" alt="remote" width="400"/>
 * 10pts - Edit the C file to print your name and NetID .  
-        - Print "Complete." on a new line.
+        - Print "Complete." on a new line. It MUST have the period.
         - Make sure the code compiles and runs
         - Commit and push the changes. [Push it](https://en.wikipedia.org/wiki/Push_It_(Salt-n-Pepa_song)) to your fork.
         - In your commit message describe the changes you made.
